@@ -10,4 +10,4 @@ My HTML knowledge was already solid, so it was not challenge for me.
 
 However, instead my commit message were all over the place before this project.
 
-I took this opportunity to focus on my commits. I tried the convential commits standard. I personally like it.
+I took this opportunity to focus on my commits. I tried the conventional commits standard. I personally like it.
