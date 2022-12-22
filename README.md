@@ -2,7 +2,7 @@
 
 A milestone in the Foundation Course of The Odin Project.
 
-This will be a basic recipe website.
+This will be a basic recipe website. [Take a look!](https://td-tan.github.io/odin-recipes/)
 
 ## After
 
