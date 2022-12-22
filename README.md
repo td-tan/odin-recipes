@@ -16,4 +16,4 @@ Maybe I should also use fictional recipes with hilarious images. I don't know...
 
 ## TO-DO
 
-- [] Use Minecraft recipes because why not
+- [ ] Use Minecraft recipes because why not
