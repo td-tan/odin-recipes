@@ -6,7 +6,7 @@ This will be a basic recipe website.
 
 ## After
 
-My HTML knowledge was already solid, so it was not challenge for me.
+My basic HTML knowledge was already solid enough, so it was not much of a challenge.
 
 However, instead my commit messages were all over the place before this project.
 
