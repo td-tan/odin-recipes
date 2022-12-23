@@ -12,8 +12,8 @@ However, instead my commit messages were all over the place before this project.
 
 I took this opportunity to focus on my commits. I tried the [Conventional Commits Standard](https://www.conventionalcommits.org/en/v1.0.0/). I personally like it.
 
-Maybe I should also use fictional recipes with hilarious images. I don't know... Minecraft recipes are, well, recipes. Right?
+I am not really satisfied with my content.
 
 ## TO-DO
 
-- [ ] Use Minecraft recipes because why not
+- [ ] Change to fictional recipes
