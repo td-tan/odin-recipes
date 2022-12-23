@@ -49,3 +49,12 @@ button:hover {
     color: white;
     background-color: #0C2545;
 }
+
+ul#ingredients {
+    text-align: left;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
