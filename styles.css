@@ -1,15 +1,23 @@
-body {
-    background-color: #0C2545;
+* {
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.topbar {
     color: white;
+    background-color: rgba(3, 27, 17, 0.2);
+    height: 100px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 0;
+    padding-top: 15px;
 }
 
 h1, ul {
     text-align: center;
 }
 
-h1 {
-    margin-left: 40px; /* ul has padding-left 40*/
-}
 
 ul {
     list-style-type: none;
