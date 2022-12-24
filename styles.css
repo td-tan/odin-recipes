@@ -59,8 +59,18 @@ button:hover {
     background-color: #0C2545;
 }
 
-ul#ingredients {
+h2,
+ul#ingredients,
+ol#steps {
     text-align: left;
+    background-color: rgba(3, 27, 17, 0.2);
+}
+
+h2 {
+    margin-bottom: -15px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: white;
 }
 
 img {
