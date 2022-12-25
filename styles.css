@@ -10,6 +10,38 @@
     border-radius: 10px;
 }
 
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+.recipe-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.recipe {
+    flex: 1;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.recipe:hover > .lsinfo {
+    color: black;
+}
+
+.lsinfo {
+    margin-right: 20px;
+    color: white;
+}
+
+.information p {
+    margin-right: 5px;
+    color: white;
+}
+
 h1 {
     margin-top: 0;
     padding-top: 15px;
