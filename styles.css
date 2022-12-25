@@ -20,6 +20,10 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
+
+    border-style: solid;
+    border-color: #0C2545;
+    padding: 10px;
 }
 
 .recipe {
